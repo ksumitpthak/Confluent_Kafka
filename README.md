@@ -4,7 +4,7 @@
 
 Download restaurent data from below mentioned link
 
-Download Data Link -> https://github.com/shashank-mishra219/Confluent-Kafka-Setup/blob/main/restaurant_orders.csv
+Download Data -> restaurant_orders.csv
 
 Complete the given below task to finish this assignment.
 
