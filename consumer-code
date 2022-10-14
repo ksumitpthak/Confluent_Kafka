@@ -61,7 +61,7 @@ def main(topic):
     consumer_conf = sasl_conf()
     consumer_conf.update({
                      'group.id': 'group1',
-                     'auto.offset.reset': "latest"})
+                     'auto.offset.reset': "earliest"})
 
     consumer = Consumer(consumer_conf)
     consumer.subscribe([topic])
